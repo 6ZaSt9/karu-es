@@ -1,4 +1,6 @@
-<p style="text-align: center;">dvsdvsdvsdvsv</p>
+<p style="text-align: center;"><b>Idiomas:</b></p>
+<p style="text-align: center;"><a href="https://crownsquad.github.io/karu-en/">Ingles</a> | Español(Actual)/p>
+
 
 # ¿Qué es Karu?
 
