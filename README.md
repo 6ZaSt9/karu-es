@@ -71,15 +71,19 @@ Karu trae incorporado el comando __userinfo__ el cual te permite obtener la info
 Discord tiene unas funciones que no trae por defecto activas, pues claro que usuarios normales no le encontrarían sentido a números extraños. Bueno, en este caso esos números nos servirán en remplazo de las menciones y la manera de activarla es la siguiente:
 #### Paso 1:
 Dirígete a *Ajustes de usuario* 
+
 ![Paso 1](https://i.imgur.com/wjuRpNi.png)
 #### Paso 2:
 Buscar y cliquear en la opción de *Apariencia*
+
 ![Paso 2](https://i.imgur.com/kruBImE.png)
 #### Paso 3:
 Ir hasta el final de la sección *Apariencia* y buscar la opción de "Modo Desarrollador", darle clic para habilitar al botón de la esquina superior derecha de esa opción.
+
 ![Paso 3](https://i.imgur.com/1dMBpVd.png)
 
 Con esto podrás ver algo asi:
+
 ![Resultado](https://i.imgur.com/UbI5Zeh.png)
 # Curiosidades
 En esta sección te presentare alguna que otra curiosidad y cositas variadas de karu, básicamente es para mostrarte las bellezas tanto visibles como incógnitas de ester querido y muy guapo bot.
