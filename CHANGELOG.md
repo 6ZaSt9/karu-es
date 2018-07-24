@@ -2,45 +2,45 @@
 <p style="text-align: center;"><a href="https://crownsquad.github.io/karu-en/CHANGELOG.html">Ingles</a> | Español(Actual)</p>
 
 
-## Change Log
-All notable changes to this project will be documented in this file.
+## Registro de cambios
+Todos los cambios notables en este proyecto se documentarán en este archivo.
 
-The format is based on [Keep a Changelog](http://keepachangelog.com/) and this project adheres to [Semantic Versioning](http://semver.org/).
+El formato se basa en [Keep a changelog] (http://keepachangelog.com/) y este proyecto se adhiere a [versión semántica] (http://SemVer.org/).
 
 ### [0.4.2] - 17-07-2018
-`+` Add command: **roll**
+`+` Nuevo comando: **roll**
 
-`!` Error fixed in the command: **userinfo**
+`!` Errores corregidos en el comando: **userinfo** (Fecha cuenta creada erronea)
 
-`+` New page in command: **vote**
+`+` Nueva pagina añadida en: **vote**
 
-`+` When you mention karu, it will tell you the current server prefix.
+`+` Cuando mencione a karu, le indicará el prefijo de servidor actual.
 
 ### [0.4.1] - 14-07-2018
-`!` Fix commands: **gif** | **servers**
+`!` Command arranged: **gif** | **servers**
 
-`+` Add command: **timer**
+`+` Nuevo comando: **timer**
 
-`+` More gifs in command **kill**
+`+` Más gifs en el comando: **kill**
 
-`+` More gifs in command **kill** (self)
+`+` Más gifs en el comando: **kill** (Suicidarse)
 
 
 ### [0.3.9] - 13-07-2018
-`+` Added the API and message latency in  **ping**
+`+` Se ha añadido la latencia de API y mensajes en  **ping**
 
-`+` New command:  **prefix**
+`+` Nuevo comando:  **prefix**
 
-`!` A bit of cooldown was removed and a suggestion was added in the error of the short command **short**
+`!` Se eliminó un poco el enfriamiento y se agregó una sugerencia en el error del comando corto **short**
 
-`!` **emote** is now **emoji**
+`!` **emote** es ahora **emoji**
 
-`+` Added more gifs in: pat, slap, kiss, kill, hug (self)
+`+` Añadido más gifs en: palmadita, palmada, beso, matanza, abrazo (uno mismo)
 
-`+` Now **avatar** has emojis at random.
+`+` Ahora **avatar** tiene emojis al azar.
 
-`+` More information in the **reverse** command.
+`+` Más informacion en el comando: **reverse**.
 
-`!` Minor corrections.
+`!` Correcciones menores.
 
-`+` Add *CHANGELOG* in command **about**
+`+` Añadido *CHANGELOG* con el comando **about**
