@@ -1,3 +1,7 @@
+<p style="text-align: center;"><b>Idiomas:</b></p>
+<p style="text-align: center;"><a href="https://crownsquad.github.io/karu-en/">Ingles</a> | Español(Actual)/p>
+
+
 ## Change Log
 All notable changes to this project will be documented in this file.
 
