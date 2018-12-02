@@ -13,7 +13,7 @@
 
 * * *
 
-* Todos los comandos con prefijo **// o (personalizable)**
+* Todos los comandos con prefijo **//**
 
   
 
