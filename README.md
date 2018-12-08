@@ -6,8 +6,7 @@
 
 > un bot con entretenimiento, acortador de enlaces, matar a los usuarios y mucho más!
 
-  
-  
+ <a href="https://discordbots.org/bot/413909677252935680" ><img src="https://discordbots.org/api/widget/413909677252935680.svg" alt="Karu" /></a> <a href="https://botsfordiscord.com/bots/413909677252935680" > <img src="https://botsfordiscord.com/api/bot/413909677252935680/widget" title="Visit Karu listed on Bots for Discord!" alt="Karu's Widget Failed to Load" /></a>
 
 ### Comandos
 
