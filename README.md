@@ -19,7 +19,7 @@
 
 |Tipo|Comando|Uso|Ejemplo|
 |--|--|--|--|
-|General|`short`|Acorta enlaces con **Bitly**  ```Nota: Usar simpre con http:// y/o https://```.|//short **https://discordbots.org**
+|General|`short`|Acorta enlaces con **Bitly**  ```Nota: Usar simpre con http:// y/o https://```.|//short **https://www.google.com**
 |General|`avatar`|Mostrar la imagen de perfil del usuario mencionado.|//avatar **@BulzyKrown#9999**
 |General |`say`| Enviar un mensaje a través de Karu.|//say **Hola mundo**
 |General|`ping`|Revisa la latencia de Karu.|//ping
