@@ -42,7 +42,6 @@
 |Others|`about`|Da una breve descripción de karu.|//about
 |Others|`sug`|Envia tus sugerencias de karu.|//sug **¡Esta bien chodori!**
 |Others|`bug`|Reporta algun problema de karu.|//bug **El comando bug no me funciona...**
-|Others|`prefix`|Permite modificar el prefijo actual|//prefix **///**
 
   
 
